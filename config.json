@@ -1,0 +1,10 @@
+{
+	"baseURL" : "https://app.ic-meter.com/",
+	"username" : "scaicmeter@compute.dtu.dk",
+	"password" : "savetheclimate!now",
+	"buildingId" : "911950",
+	"EventHubURL": "amqps://dpx-202-1-eventhub.servicebus.windows.net/26661-sca",
+	"EventHubPolicyName": "devices",
+	"EventHubPrimaryKey": "GArz9CWmrUGNJIXn8V5OPcilV2FcXM5oZb0O1r7wsjk=",
+	"EventHubBatchTimer": "600"
+}
